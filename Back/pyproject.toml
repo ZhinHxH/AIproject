@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "linkscribeback"
+version = "1.0.0"
+description = "This is the api rest service for the project"
+authors = ["Group n"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.110.0"
+bs4 = "^0.0.2"
+requests = "^2.31.0"
+uvicorn = "^0.29.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
