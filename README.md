@@ -44,7 +44,7 @@ LinkScribe es una aplicación web/mobile/desktop que utiliza procesamiento de le
 1. **Clona el repositorio:**
 
 ```bash
-git clone https://github.com/ZhinHxH/AIproject
+git clone https://github.com/ZhinHxH/AIproject.git
 ```
 2. **Posicionate en la carpeta de backend e instala los elementos con Poetry:**
 Poetry install
