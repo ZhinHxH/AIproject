@@ -1,6 +1,6 @@
 .page-section{
   width: 95vw;
-  height: 95vh;
+  height: 90vh;
   padding: 2rem 0;
   display: flex;
   flex-direction: column;
@@ -30,8 +30,7 @@
 .results-container {
   min-width: 600px;
   width: 80%;
-  min-height: 400px;
-  background-color: slategray;
-
+  max-height: 500px;
+  overflow: scroll;
 }
 

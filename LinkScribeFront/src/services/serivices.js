@@ -1,6 +1,6 @@
 // This is an file for the request configuration for the rest api
 // Firts we declare the global variable wiht the url of the api
-const backendUrl = '';
+const backendUrl = 'http://127.0.0.1:8000';
 
 // Build a function for tramit the GET querys
 export const get = async (url) => {
