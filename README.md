@@ -12,7 +12,6 @@
   <a href="#funcionalidades">Funcionalidades</a> •
   <a href="#requisitos-de-instalación">Requisitos de instalación</a> •
   <a href="#instalación">Instalación</a> •
-  <a href="#ejecución">Ejecución</a> •
   <a href="#contribución">Contribución</a> •
   <a href="#licencia">Licencia</a>
 </p>
@@ -60,6 +59,13 @@ CREATE TABLES classifier (
   TEXTO VARCHAR(1000),
   CLASIFICACION VARCHAR(100)
 );
+
+## Contribucion
+Este proyecto fue desarrollado por Jhon Freddy Bolanos y Jhos Ben Xavio Hurtado para la materia de Proyectos de AI.
+
+## Licencia
+
+Este `readme.md` presenta una estructura organizada y visualmente atractiva, con imágenes, enlaces y bloques de código formateados. Puedes personalizarlo según las necesidades específicas de tu proyecto, asegurándote de incluir información relevante y atractiva para los usuarios potenciales.
 
 
 
