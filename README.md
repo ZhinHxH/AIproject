@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="[https://yourlinkscribeimageurl.com/logo.png](https://play-lh.googleusercontent.com/sLENPy71gZS2u-8deRY1LaAaEWidPF570HfsGF9XGAm4kqTUjLCdDyeQdDVTQSVV9KYO=w240-h480-rw)" alt="LinkScribe" width="200">
+  <img src="https://play-lh.googleusercontent.com/sLENPy71gZS2u-8deRY1LaAaEWidPF570HfsGF9XGAm4kqTUjLCdDyeQdDVTQSVV9KYO=w240-h480-rw" alt="LinkScribe" width="200">
   <br>
   LinkScribe
   <br>
